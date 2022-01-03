@@ -11,7 +11,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background:darkslateblue;
+    background:peachpuff;
 }
 
 .wrapper {
@@ -104,10 +104,14 @@ form .Conversion {
 form button {
     height: 52px;
     width: 310px;
-    color:lightblue;
+    color:black;
     font-size: 17px;
     cursor: pointer;
-    background:darkslateblue;
+    background:peachpuff;
     align-items: center;
     border: 4px solid black;
 }
+
+
+
+
